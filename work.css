@@ -1,0 +1,14 @@
+#hiner button:focus {
+  background-color: #ffa430;
+  color: #1a101c;
+}
+
+#hiner button {
+  background-color: #ffa430;
+  color: #ffd430;
+}
+
+#hiner button:hover {
+  background-color: #ffd430;
+  color: #ffa430;
+}
